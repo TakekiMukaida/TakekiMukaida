@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## Hello!  I'm Takeki MUKAIDA!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takekimukaida&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakekiMukaida&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./kaggle-plates/Competitions/white.svg)
 ![](./kaggle-plates/Datasets/white.svg)
