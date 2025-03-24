@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every day at 00:00 UTC
-    - cron: "0 0 * * *" 
+    # You can change the cron expression to suit your needs
+    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
   workflow_dispatch:
 
 jobs:
@@ -23,15 +23,13 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome@126.0.6478.63
+        run: npx puppeteer browsers install chrome@131.0.6778.85
 
       - name: Use Kaggle Badges Action
-        uses: spider-man-tm/kaggle-badges@v1.2.2
+        uses: spider-man-tm/kaggle-badges@v1.2.6
         with:
           user_name: ${{ secrets.KAGGLE_USERNAME }}
           key: ${{ secrets.KAGGLE_KEY }}
-          # example of using GitHub Secrets
-          # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
       - name: Commit and Push SVG files
         run: |
