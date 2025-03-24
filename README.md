@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takekimukaida&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./kaggle-plates/Competitions/white.svg)
-![](./kaggle-plates/Datasets/white.svg)
-![](./kaggle-plates/Discussions/white.svg)
-![](./kaggle-plates/Notebooks/white.svg)
+![](./kaggle-plates/Competitions/black.svg)
+![](./kaggle-plates/Datasets/black.svg)
+![](./kaggle-plates/Discussions/black.svg)
+![](./kaggle-plates/Notebooks/black.svg)
