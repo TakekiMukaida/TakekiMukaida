@@ -29,7 +29,8 @@ jobs:
         uses: spider-man-tm/kaggle-badges@v1.2.2
         with:
           # ex. user_name: spidermandance
-          user_name: { "riffelsee" }
+          user_name: { secrets.KAGGLE_USERNAME }
+          key : { secrets.KAGGLE_KEY }
           # example of using GitHub Secrets
           # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
