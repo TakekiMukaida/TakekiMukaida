@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 ![](./kaggle-plates/Datasets/white.svg)
 ![](./kaggle-plates/Discussions/white.svg)
 ![](./kaggle-plates/Notebooks/white.svg)
+
+<img src="./kaggle-plates/Competitions/white.svg" width="200">
+<img src="./kaggle-plates/Datasets/white.svg" width="200">
+<img src="./kaggle-plates/Discussions/white.svg" width="200">
+<img src="./kaggle-plates/Notebooks/white.svg" width="300">
