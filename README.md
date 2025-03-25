@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![](./kaggle-plates/Discussions/white.svg)
 ![](./kaggle-plates/Notebooks/white.svg)
 
-<img src="./kaggle-plates/Competitions/white.svg" width="150" style="display: inline-block;"> <img src="./kaggle-plates/Datasets/white.svg" width="150" style="display: inline-block;">
-<img src="./kaggle-plates/Discussions/white.svg" width="150" style="display: inline-block;">
+<img src="./kaggle-plates/Competitions/white.svg" width="150" style="display: inline-block;"> 
+<img src="./kaggle-plates/Datasets/white.svg" width="150" style="display: inline-block;"> 
+<img src="./kaggle-plates/Discussions/white.svg" width="150" style="display: inline-block;"> 
 <img src="./kaggle-plates/Notebooks/white.svg" width="150" style="display: inline-block;">
