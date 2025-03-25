@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 ![welcome](https://place-hold.it/200x100/111/17d339/fff.png&text=Welcome!&bold&italic&fontsize=20)
 -->
 
+<<<<<<< HEAD
 ## Hello!  I'm Takeki MUKAIDA!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakekiMukaida&langs_count=12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+=======
+## Hello!  I'm Takeki MUKAIDA.
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=TakekiMukaida&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+>>>>>>> ca5687e (fix README)
 
 ![](./kaggle-plates/Competitions/white.svg)
 ![](./kaggle-plates/Datasets/white.svg)
