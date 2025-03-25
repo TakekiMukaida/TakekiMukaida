@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 -->
 
 ## Hello!  I'm Takeki MUKAIDA.
-[![MUKAIDA's ReadMe Card](https://github-readme-stats.vercel.app/api?username=TakekiMukaida&custom_title=MUKAIDA%27s%20GitHub%20Stats&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api?username=TakekiMukaida&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![MUKAIDA's ReadMe Card](https://github-readme-stats.vercel.app/api?username=TakekiMukaida&custom_title=MUKAIDA%27s%20GitHub%20Stats&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakekiMukaida&langs_count=12&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](./kaggle-plates/Competitions/white.svg)
 ![](./kaggle-plates/Datasets/white.svg)
