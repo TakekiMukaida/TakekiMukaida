@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hello!  I'm Takeki Mukaida!
 [![MUKAIDA's ReadMe Card](https://github-readme-stats.vercel.app/api?username=TakekiMukaida&custom_title=My%20GitHub%20Stats&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakekiMukaida&langs_count=12&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
+<p align="left">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakekiMukaida&theme=transparent" />
 </p>
 
